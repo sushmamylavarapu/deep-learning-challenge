@@ -46,11 +46,3 @@ The Alphabet Soup Marketing Campaign Analysis project aims to assist Alphabet So
 ## Recommendation
 
 Given the challenges faced in achieving the target accuracy with the deep learning model, we recommend exploring alternative machine learning approaches for this classification problem. Gradient Boosting algorithms, such as XGBoost or LightGBM, are known for their strong binary classification performance and feature importance analysis capabilities. Ensembling methods like Random Forests could also improve predictive accuracy while maintaining interpretability.
-
-## Contributing
-
-Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
-
-## License
-
-This project is licensed under the [Your License Name] License. See the LICENSE.md file for details.
